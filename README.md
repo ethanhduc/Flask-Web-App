@@ -1,4 +1,4 @@
-# Flask Web App 
+# Flask Web App Tutorial
 
 ## Setup & Installation
 
@@ -10,6 +10,20 @@ git clone <repo-url>
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Install Flask
+
+```bash
+pip install flask
+```
+
+```bash
+pip install flask-login
+```
+
+```bash
+pip install flask-sqlalchemy
 ```
 
 ## Running The App
